@@ -4,7 +4,7 @@ Python Script that allows you to easily create great looking equations in a LaTe
 If you want to have multiple different equations beside each other, it can be frusturating and confusing to have to write the 1st line of the first equation, then the 1st line of the second equation, and so on. With this script, you can write each equation and its solution(s) in "blocks." The script will align these blocks beside each other, making easy to read text and a great-looking LaTeX document
 
 # How to use it
-To use this, you need Python (2.7+ is fine). To run it, type, ``` align_tool.py <file> ```
+To use this, you need Python (2.7+ is fine). To run it, type, ``` align_Tool.py <file> ```
 Here is an example of how the file should look
 
 ```
