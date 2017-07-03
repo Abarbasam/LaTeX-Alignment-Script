@@ -5,7 +5,7 @@ If you want to have multiple different equations beside each other, it can be fr
 
 # How to use it
 To use this, you need Python (2.7+ is fine). To run it, type, ``` align_tool.py <file> ```
-Here is an example of how the <file> should look
+Here is an example of how the file should look
 
 ```
 	a)    &
